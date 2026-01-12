@@ -1,0 +1,8 @@
+{
+  "name": "GraminHealth AI",
+  "description": "A sustainable AI assistant designed to provide simple health awareness and preventive guidance to rural and semi-urban communities, aligned with SDG 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
